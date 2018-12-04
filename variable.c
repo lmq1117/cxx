@@ -22,7 +22,7 @@
  	// l value rvalue
  	// 10 = 20;
 
- 	printf("value of k %d \n", k);
+ 	printf("v啊哈哈alue of k %d \n", k);
  	printf("value of salary %f \n", salary);
  	printf("value of d %f \n", d);
  	return 0;
